@@ -805,7 +805,7 @@
 													"top": 303,
 													"width": 247.08251953125,
 													"height": 13,
-													"text": "dispense: StateMachine3"
+													"text": "dispense: DispenseItem"
 												},
 												{
 													"_type": "LabelView",
@@ -940,7 +940,7 @@
 											"top": 429,
 											"width": 87.7216796875,
 											"height": 13,
-											"text": "StateMachine3"
+											"text": "DispenseItem"
 										},
 										{
 											"_type": "LabelView",
@@ -3533,7 +3533,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "StateMachine3",
+					"name": "DispenseItem",
 					"ownedElements": [
 						{
 							"_type": "UMLStatechartDiagram",
@@ -3541,7 +3541,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGBRHsn8W5nsl4="
 							},
-							"name": "StateMachine3"
+							"name": "DispenseItem"
 						}
 					],
 					"regions": [
